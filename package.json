@@ -1,0 +1,23 @@
+{
+  "name": "zeeman",
+  "version": "1.0.0",
+  "description": "my second work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VitaliEx/zeeman.git"
+  },
+  "dependencies": {
+    "minti_fulkerson": "0.1.4",
+    "tea-vitalii": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VitaliEx/zeeman/issues"
+  },
+  "homepage": "https://github.com/VitaliEx/zeeman#readme"
+}
